@@ -1,0 +1,52 @@
+# # x = ['fuad' , ' tural' , 'samir']
+# # x = [1,2,3,4,5]
+# # x.pop()
+# # print(x)
+# # x.remove('samir')
+# # print(x)
+# # x.append('ilkin') 
+# # x.insert(2, 'hesen')
+# # print(x)
+# # x.reverse()
+# # print(x)
+# # x = [[1,2,3] , [4,5,6] , [7,8,9]]
+# # print(x[1][1])
+
+# # a = [1, 'fuad' , True]
+# # print(a[1])
+
+# # x = list(('fuad'))
+# # print(x)
+
+# # x = ['fuad' , 'tural' , 'samir' , 'mehemmed']
+
+# # a = x.copy()
+# # print(a)
+
+# # for i in x:
+# #     if 'a' not in i:
+# #         print(i)
+
+
+# meyveler = ['alma' , 'banan' , [ ] ,  'gilas' , 'kivi' , 'mango' ]
+# # print(type(meyveler))
+
+# # newlist = []
+
+# # for x in meyveler:
+# #     if '[]'  in x:
+# #         newlist.append(x)
+# # print(newlist)
+
+# # a= ['fuad' , 'aslan' , 'afaq']
+
+# ad = input('ad daxil edin (1) , adi silin (2)')
+# if ad == '1':
+#     a = input('ad daxil edin : ' )
+#     a.append(a)
+#     print(a)
+#     for i in a:
+#         print(i)
+# if ad == 2:
+#     a.remove(s)
+    

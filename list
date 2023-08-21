@@ -1,0 +1,25 @@
+# # pop bow moterize axirinci elementi silir, moterizeye indeks yazanda silir
+# # remove dirnagda ne yazsan silir
+# # append axirina ne yazsan elave edir
+# x = ['hesen' , 'tural' , 'samir']
+# x.insert(1, 'ilkin')
+# print(x)
+# insert arasina yazir
+# reverse indeksleri tersine yazir
+# listin icinde hem bool hem str hem int hem float yazmaq olar
+
+# x = ['fuad' , 'tural' , 'samir' , 'mehemmed']
+# for i in x:
+#     if 'a' in i:
+#         print(i)
+
+# x= ['samir' , 'fuad' , [ ]   , 'ilkin' , 'asif']
+# x1 = x.index([0])
+# print(x1)
+# a = str(input('eded daxil edin'))
+# b = 0
+# if b<=10:
+#     print('eded musbetdir')
+#     b=0
+# else:
+#     print('eded menfidir')
